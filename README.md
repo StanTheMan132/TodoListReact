@@ -1,4 +1,5 @@
 # Todolist App
+ A quick Todo list application I made using Mobx and react. I built it mainly to learn Mobx. Will be adding a python backend later to learn Graphql. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
